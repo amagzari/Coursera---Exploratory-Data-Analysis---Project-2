@@ -1,6 +1,6 @@
 # Coursera---Exploratory-Data-Analysis---Project-2
 
-1. This project uses National Emissions Inventory database to investigate particulate matter emissions across the United States over a 10-year period.
+1. This project uses National Emissions Inventory records to investigate particulate matter emissions across the United States over a 10-year period.
 
 2. The produced R scripts cover practical commands in manipluating data, piping and plotting (base plot and ggplot2).
 
