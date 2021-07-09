@@ -8,5 +8,5 @@
 
    https://www.coursera.org/learn/exploratory-data-analysis/peer/b5Ecl/course-project-2
 
-4. Besides the produced scripts and plots, a markdown report is also apploaded for narrative.
+4. Besides the produced scripts and plots, a report is also apploaded for narrative.
 
